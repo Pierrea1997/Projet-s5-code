@@ -1,4 +1,6 @@
 Pour creer un nouveau dossier faites controle + P dans la branche desirer soit matlab, master ou C-Assembleur.
 Par la suite vous vous marquer Create file, vous lui donner un nom et par la suite vous pouvez mettre votre code dans le fichier
-et faire un push pour l'enreigistrer sur le serveur de groupe.
-Quand vous avez fini de remplir le fichier cliker sur stage File pour sauvegarder le fichier
+et faire un push pour l'enreigistrer sur le serveur de groupe. 
+fait et vous faites un commit pour l'enreigistrer sur le serveur git.
+Quand vous avez fini de remplir le fichier cliker sur stage File pour sauvegarder le fichier.
+Quand vous clicker sur stage File,  vous devez mettre un commentaire des modifications par la suite vous faites le commit.
